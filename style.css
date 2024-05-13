@@ -1,0 +1,192 @@
+html {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+  }
+
+
+  .carrot{
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 85%;
+    z-index: 2;
+    
+  }
+  
+  .title{
+    padding: 5%;
+    margin-top: 0%;
+    margin-left: 60%;
+    font-size:60px;
+    font-family: Arial, sans-serif;
+    color: #000000;
+    z-index: 1;
+    position:fixed;
+    text-align: center;
+
+  }
+
+
+
+
+  #myVideo {
+    position:absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    float: left;
+    z-index: -1;
+  }
+
+
+  .carrot_step1 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 85%;
+    z-index: 2;
+
+  }
+
+  .carrot_step11 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 5%;
+    z-index: 3;
+
+  }
+
+
+  .carrot_step2 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 85%;
+    z-index: 2;
+
+  }
+
+  .carrot_step22 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 5%;
+    z-index: 3;
+
+  }
+
+  
+  .carrot_step3 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 85%;
+    z-index: 2;
+
+  }
+
+  .carrot_step33 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 5%;
+    z-index: 3;
+
+  }
+
+  .carrot_step4 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 85%;
+    z-index: 2;
+
+  }
+
+  .carrot_step44 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 5%;
+    z-index: 3;
+
+  }
+
+  .carrot_step5 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 85%;
+    z-index: 2;
+
+  }
+
+  .carrot_step55 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 5%;
+    z-index: 3;
+
+  }
+
+  .carrot_step6 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 85%;
+    z-index: 2;
+
+  }
+
+  .carrot_step66 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 5%;
+    z-index: 3;
+
+  }
+
+  .carrot_step7 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 85%;
+    z-index: 2;
+
+  }
+
+  .carrot_step77 {
+    width: 20px; 
+    height: 20px; 
+    position: absolute; 
+    top: 75%; 
+    left: 5%;
+    z-index: 3;
+
+  }
+
+  .peepeepoopoo { 
+    position: absolute; 
+    top: 0%; 
+    left: 0%;
+    
+}
